@@ -16,7 +16,7 @@ Acesse o projeto finalizado no link a seguir !!
 
 ## :memo: Licença
 
-Esse projeto está sob a licença do canal Manual do Dev, sendo de uso legal e sem quebras de direitos.
+Sob minha autoria.
 
 ---
 
