@@ -7,7 +7,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Mugiwara é um site que simula o fã pages do anime One Piece.
+O Pokedex é um site que simula a Pokédex do anime Pokemon.
 
 ## 🔗 Deploy
 
